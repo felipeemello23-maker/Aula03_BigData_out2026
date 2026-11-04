@@ -16,4 +16,6 @@ print(f' novo salario com reajuste R$ {soma} ')
 #git remote add origin  https://github.com/felipeemello23-maker/Aula03_BigData_out2026.git
 #git branch -M main
 #git status
-#git add .
+# #git add .
+# git commit -m "comentar algo nesse campo"
+# git push origin main
